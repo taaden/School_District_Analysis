@@ -21,7 +21,7 @@ GitHub repository  for school analysis
         *The Average Math Score was reduced by 0.1 unit to 78.0 while the Average Reading Score  was unchanged 81.9.
         *The Percentage Passing Math was reduced by 0.2% and to new value of 74.8%.
         *The Percentage Passing Reading was reduced by 0.1% and to new value of 85.7%
-        *The Percentage Overall Passing was also reduced by 0.3% and ti new value of 64.9%.
+        *The Percentage Overall Passing was also reduced by 0.3% and to new value of 64.9%.
      *The school summary dataframe affected :
         * Whereas the Total students for Thomas High School reduced by 461 to 1174,the Per Student Budget went up by $250.53 to $888.53.
         * The Total School Budget,The Average Math Score,The Percentage Passing Math and The Percentage Passing Reading for Thomas High School remain unchanged.
