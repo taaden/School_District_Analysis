@@ -1,7 +1,7 @@
 # School_District_Analysis
 GitHub repository  for school analysis
 ## Overview of the School District Analysis
-  * The purpose of this analysis is to determine how altered data or accedemic dishonesty would affect the state testing standard,by looking the effects of the altered      reading and math grades for Thomas High School ninth graders on the district summary dataframe,school summary dataframe and other metrics.
+    * The purpose of this analysis is to determine how the altered data or accedemic dishonesty would affect the state testing standard,by looking at the effects of         the altered reading and math grades for Thomas High School ninth graders on the district summary dataframe,school summary dataframe and other metrics.
   * All the interested metrics include the following:
      * The district summary DataFrame.
      * The school summary DataFrame. 
@@ -41,4 +41,4 @@ GitHub repository  for school analysis
            * The Percentage Passing Math was reduced by 0.2% and to new value of 74.8%.
            * The Percentage Passing Reading was reduced by 0.1% and to new value of 85.7%
            * The Percentage Overall Passing was also reduced by 0.3% and to new value of 64.9% 
-          These goes to show the need for good data governance accross the school district as any altered school data would actually affect the quality of the district           analysis
+           These goes to show the need for a good data governance accross the school district as any altered school data would actually affect the quality of the                   school district analysis
