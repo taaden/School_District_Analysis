@@ -35,3 +35,10 @@ GitHub repository  for school analysis
         * Scores by school spending was mostly the same except the Percentage Overall Passing that went up across all groups
         * Scores by school size was mostly the same except the Percentage Overall Passing that went up across all groups
         * Scores by school type was mostly the same except the Percentage Overall Passing that went up across both groups
+##### Summary
+        * Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+           * Total Students was reduced by 461 to 38.709 and the Average Math Score was reduced by 0.1 unit to 78.0
+           * The Percentage Passing Math was reduced by 0.2% and to new value of 74.8%.
+           * The Percentage Passing Reading was reduced by 0.1% and to new value of 85.7%
+           * The Percentage Overall Passing was also reduced by 0.3% and to new value of 64.9% 
+          These goes to show the need for good data governance accross the school district as altered data could actually affect the quality of the district analysis
