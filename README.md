@@ -17,6 +17,8 @@ GitHub repository  for school analysis
     * Files : students_complete.csv,schools_complete.csv
 #### Results
      *The district summary was affected as follows
+![district_summary _df_ before_ altered](https://user-images.githubusercontent.com/64270455/187047447-1590aece-adff-4851-b064-51f056af5cb2.png)![district_summary _df_ after_ altered](https://user-images.githubusercontent.com/64270455/187047473-d3bf39f7-f684-4af8-97b9-406f5450fb62.png)
+        
         *Total Students was reduced by 461 to 38.709 while Total Schools and Total Budget of the district remain unchanged.
         *The Average Math Score was reduced by 0.1 unit to 78.0 while the Average Reading Score  was unchanged 81.9.
         *The Percentage Passing Math was reduced by 0.2% and to new value of 74.8%.
