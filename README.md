@@ -41,4 +41,4 @@ GitHub repository  for school analysis
            * The Percentage Passing Math was reduced by 0.2% and to new value of 74.8%.
            * The Percentage Passing Reading was reduced by 0.1% and to new value of 85.7%
            * The Percentage Overall Passing was also reduced by 0.3% and to new value of 64.9% 
-          These goes to show the need for good data governance accross the school district as altered data could actually affect the quality of the district analysis
+          These goes to show the need for good data governance accross the school district as any altered school data would actually affect the quality of the district           analysis
