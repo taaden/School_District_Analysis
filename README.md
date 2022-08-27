@@ -1,7 +1,7 @@
 # School_District_Analysis
 GitHub repository  for school analysis
 ## Overview of the School District Analysis
-    * The purpose of this analysis is to determine how the altered data or accedemic dishonesty would affect the state testing standard,by looking at the effects of         the altered reading and math grades for Thomas High School ninth graders on the district summary dataframe,school summary dataframe and other metrics.
+    * The purpose of this analysis is to demonstrate how the altered data or accedemic dishonesty would affect the state testing standard,by looking at the effects of         the altered reading and math grades for Thomas High School ninth graders on the district summary dataframe,school summary dataframe and other metrics.
   * All the interested metrics include the following:
      * The district summary DataFrame.
      * The school summary DataFrame. 
